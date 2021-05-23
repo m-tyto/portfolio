@@ -1,0 +1,27 @@
+.pv{
+    font-size: 15px;
+    line-height: 2em;
+    margin-bottom: 15px;
+}
+
+.p-all{
+    width: 650px;
+    height: 800px;
+    margin: 0 auto;
+    background-size: 100% 100%;
+    color: gray;
+    border-radius: 1%;
+    margin-top: 20px;
+}
+
+@media screen and (max-width: 480px) {
+	.p-all{
+        margin-top: 10px;
+    }
+
+    .pv{
+        font-size: 15px;
+        line-height: none;
+        margin-bottom: 2px;
+    }
+}

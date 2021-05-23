@@ -1,0 +1,30 @@
+.skill-name{
+    color: rgb(255, 241, 120);
+    text-shadow: 2px 2px 7px rgb(255, 255, 255);
+}
+
+.description{
+    color: rgb(255, 217, 0);
+    text-shadow: 1px 1px 7px rgb(255, 182, 182);
+}
+
+.skill-area:hover{
+    border: 3px solid rgb(202, 255, 123);
+    background-color: rgb(168, 168, 168);
+    border-radius: 20px;
+}
+
+.skill-area:hover .skill-name{
+    font-size: 35px;
+}
+
+@media screen and (max-width: 480px) {
+	.skill-area:hover .skill-name{
+        font-size: 22px;
+    }
+    .skill-area:hover{
+        border: 3px solid rgb(205, 253, 133);
+        background-color: rgb(64, 63, 63);
+        border-radius: 20px;
+    }
+}
