@@ -1,0 +1,15 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tytoportfolio-dev-220742-authRole",
+      "UnauthRoleArn": "arn:aws:iam::084025204963:role/amplify-tytoportfolio-dev-220742-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::084025204963:role/amplify-tytoportfolio-dev-220742-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-tytoportfolio-dev-220742-deployment",
+      "UnauthRoleName": "amplify-tytoportfolio-dev-220742-unauthRole",
+      "StackName": "amplify-tytoportfolio-dev-220742",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:084025204963:stack/amplify-tytoportfolio-dev-220742/07f8ae70-bc91-11eb-9346-069f71278669",
+      "AmplifyAppId": "d79tuc7rq37lp"
+    }
+  }
+}
