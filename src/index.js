@@ -10,19 +10,6 @@ ReactDOM.render(
   </React.StrictMode>,
   document.getElementById('root')
 );
-// ReactDOM.render(
-//   <React.StrictMode>
-//     <Header />
-//   </React.StrictMode>,
-//   document.getElementById('header')
-// );
-
-// ReactDOM.render(
-//   <React.StrictMode>
-//     <Footer />
-//   </React.StrictMode>,
-//   document.getElementById('footer')
-// );
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
