@@ -10,7 +10,7 @@ import mail from '../image/gmail.png';
 const Contact = () => {
     const contacts = [{
         name : 'gmail',
-        link : 'https://mail.google.com/mail/?view=cm&to=tychan224@gmail.com',
+        link : 'https://mail.google.com/mail/?view=cm&to=m.taito.224@gmail.com',
         img : mail
     },{
         name : 'Twitter',

@@ -6,7 +6,7 @@ import '../styles/commonStyles/footer.css';
 const Footer = () => {
     return(
         <div className="footer mt-4">
-            <p>MailAddress : tychan224@gmail.com</p>    
+            <p>MailAddress : m.taito.224@gmail.com</p>    
         </div>
     )
 }
