@@ -36,7 +36,7 @@ const Contact = () => {
                             {contacts.map((contact) => {
                                 return(
                                     <div className="contact col-3 my-4 text-center">
-                                        <a href={contact.link}><img src={contact.img} alt={contact.name} className="linkimage mt-2"  /></a>
+                                        <a href={contact.link} target="_blank"><img src={contact.img} alt={contact.name} className="linkimage mt-2"  /></a>
                                         <p  className="linkname py-3 mt-2">{contact.name}</p>
                                     </div>
                                 )
