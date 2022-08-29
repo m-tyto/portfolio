@@ -28,37 +28,37 @@ const Skill = () => {
     {
         name : 'JavaScript',
         img : js,
-        description : '業務で簡単な機能を作成しました'
+        description : '業務で現在時刻を取得する機能を作成しました'
     },
     {
         name : 'PHP',
         img : php,
-        description : '業務でもスクールでも使用している言語で、最も自信があ流言語です'
+        description : '普段開発業務で使用している言語です'
     },
     {
         name : 'Python',
         img : python,
-        description : '一番最初に学んだ言語ですが、現在は触ってません'
+        description : '最初に学習した言語です。seleniumでツールを作った経験があります'
     },
     {
         name : 'MySQL',
         img : sql,
-        description : '業務でも学習でも使用しています。スクールでDB設計の経験もあります'
+        description : '業務でも学習でも使用しています。直近の実務ででDB設計をしました'
     },
     {
         name : 'Laravel',
         img : laravel,
-        description : 'スクールで学びました。自分で設計してアプリ開発をした事があります'
+        description : '開発業務で使用しているフレームワークです'
     },
     {
         name : 'CakePHP',
         img : cake,
-        description : '業務で社内システムの保守、機能改良、新機能開発を行っています'
+        description : '魚油無でFWバージョンアッププロジェクトに参画していました'
     },
     {
         name : 'React',
         img : react,
-        description : 'スクール卒業後に独学で勉強しました。このサイトはReactで作成しました'
+        description : '独学で勉強しました。このポートフォリオはReactで作成しました'
     },
     {
         name : 'Git/Github',
@@ -68,7 +68,7 @@ const Skill = () => {
     {
         name : 'aws',
         img : aws,
-        description : 'スクールで学びました。ubuntuでデプロイ経験があります'
+        description : 'EC2でこのポートフォリオを公開しました。S3の設計の経験もあります'
     }];
     return(
         <div>

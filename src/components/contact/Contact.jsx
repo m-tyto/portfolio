@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import { BrowserRouter, Route, Link } from 'react-router-dom'
 import '../styles/contact.css';
 import github from '../image/githubicon.png';
-import line from '../image/line@.jpeg';
+import line from '../image/linkdin.png';
 import twitter from '../image/Twittericon.png';
 import mail from '../image/gmail.png';
 
@@ -17,8 +17,8 @@ const Contact = () => {
         link : "https://twitter.com/tychan0024",
         img : twitter
     },{
-        name : 'LINE@',
-        link : "https://lin.ee/wNjsnRd",
+        name : 'LinkedIn',
+        link : "https://www.linkedin.com/in/%E6%B3%B0%E6%96%97-%E4%B8%89%E5%AE%85-011b85245",
         img : line
     },{
         name : 'github',
